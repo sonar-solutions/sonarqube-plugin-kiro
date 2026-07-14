@@ -1,5 +1,7 @@
 # Set up the SonarQube power for Kiro
 
+> Last verified: July 2026
+
 ## TL;DR overview
 
 - The SonarQube power for Kiro adds SonarQube code quality and security analysis to the Kiro IDE agent loop, catching bugs, vulnerabilities, and leaked secrets in AI-generated code.  
